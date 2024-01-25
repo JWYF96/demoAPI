@@ -1,4 +1,5 @@
-{
+[
+    {
       id: 1,
       name: "Apple",
       price: 5,
@@ -8,28 +9,29 @@
     {
       id: 2,
       name: "Cherry",
-      price: 8,
+      price: 5,
       image: "cherry.jpg",
       description: "Ding dong!",
     },
     {
       id: 3,
       name: "Pineapple",
-      price: 18,
+      price: 5,
       image: "pineapple.jpg",
       description: "Pointy, dont get hurt",
     },
     {
       id: 4,
       name: "Strawberry",
-      price: 15,
+      price: 5,
       image: "strawberry.jpg",
       description: "Maybe sweet, maybe sour",
     },
     {
       id: 5,
       name: "Banana",
-      price: 4,
+      price: 5,
       image: "banana.jpg",
       description: "For consumption only. Not for other purposes.",
-    }
+    },
+  ]
