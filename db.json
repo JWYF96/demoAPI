@@ -1,37 +1,37 @@
 [
     {
-      id: 1,
-      name: "Apple",
-      price: 5,
-      image: "apple.jpg",
-      description: "Fresh Apples",
+      "id": 1,
+      "name": "Apple",
+      "price": 5,
+      "image": "apple.jpg",
+      "description": "Fresh Apples"
     },
     {
-      id: 2,
-      name: "Cherry",
-      price: 5,
-      image: "cherry.jpg",
-      description: "Ding dong!",
+      "id": 2,
+      "name": "Cherry",
+      "price": 5,
+      "image": "cherry.jpg",
+      "description": "Ding dong!"
     },
     {
-      id: 3,
-      name: "Pineapple",
-      price: 5,
-      image: "pineapple.jpg",
-      description: "Pointy, dont get hurt",
+      "id": 3,
+      "name": "Pineapple",
+      "price": 5,
+      "image": "pineapple.jpg",
+      "description": "Pointy, dont get hurt"
     },
     {
-      id: 4,
-      name: "Strawberry",
-      price: 5,
-      image: "strawberry.jpg",
-      description: "Maybe sweet, maybe sour",
+      "id": 4,
+      "name": "Strawberry",
+      "price": 5,
+      "image": "strawberry.jpg",
+      "description": "Maybe sweet, maybe sour"
     },
     {
-      id: 5,
-      name: "Banana",
-      price: 5,
-      image: "banana.jpg",
-      description: "For consumption only. Not for other purposes.",
-    },
+      "id": 5,
+      "name": "Banana",
+      "price": 5,
+      "image": "banana.jpg",
+      "description": "For consumption only. Not for other purposes."
+    }
   ]
